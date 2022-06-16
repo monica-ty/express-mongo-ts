@@ -7,9 +7,10 @@ In the project directory, you can run:
 
 ### `npm run start`
 
-Runs the built app by `node build/server.js`.\
+Runs the built app by pre-set command `node build/server.js`.\
+You will see `connected` in the console if the app runs successfully.
 
-The page will reload if you make edits.\
+The server will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm run build`
